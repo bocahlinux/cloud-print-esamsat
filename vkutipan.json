@@ -1,4 +1,4 @@
 {
-  "system_info": "1.2.4",
-  "widget": "1.0.0"
+  "helper/system/system_info": "1.2.4",
+  "helper/conf/widget": "1.2.4"
 }
