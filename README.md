@@ -56,17 +56,17 @@ cloud-print-kutipan/
 ```
 
 ## 📜 Catatan Versi
-🔖 Versi 1.2.5 (18-09-2025)
-✨ Auto-start updater aktif default.
-🖥️ GUI warning jika aplikasi dibuka lebih dari 1x.
-📦 Distribusi modul .pyd via paket ZIP (lebih ringan & terstruktur).
-⚡ Optimisasi updater (cek versi lebih cepat).
+- 🔖 Versi 1.2.5 (18-09-2025)
+- ✨ Auto-start updater aktif default.
+- 🖥️ GUI warning jika aplikasi dibuka lebih dari 1x.
+- 📦 Distribusi modul .pyd via paket ZIP (lebih ringan & terstruktur).
+- ⚡ Optimisasi updater (cek versi lebih cepat).
 
 ## ❤️ Credits
-Support: IT Server Bapenda Provinsi Kalimantan Tengah
-Developer: Yudha
-Special Thanks: Open Source Community
+- Support: IT Server Bapenda Provinsi Kalimantan Tengah
+- Developer: Yudha
+- Special Thanks: Open Source Community
 
 ## ⚠️ Notice
-Aplikasi ini hanya digunakan untuk keperluan Samsat Kalimantan Tengah.
-Tidak untuk diperjualbelikan atau digunakan di luar instansi resmi.
+**Aplikasi ini hanya digunakan untuk keperluan Samsat Kalimantan Tengah.**
+_Tidak untuk diperjualbelikan atau digunakan di luar instansi resmi._
