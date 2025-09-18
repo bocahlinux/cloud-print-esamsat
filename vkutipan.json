@@ -9,10 +9,10 @@
   },
   "assets": {
     "version": "1.2.5",
-    "url": "https://github.com/bocahlinux/cloud-print-esamsat/releases/download/v1.2.5/helper_v1.2.5.zip"
+    "url": "https://github.com/bocahlinux/cloud-print-esamsat/releases/download/v1.2.5/assets_v1.2.5.zip"
   },
   "template": {
     "version": "1.2.5",
-    "url": "https://github.com/bocahlinux/cloud-print-esamsat/releases/download/v1.2.5/helper_v1.2.5.zip"
+    "url": "https://github.com/bocahlinux/cloud-print-esamsat/releases/download/v1.2.5/template_v1.2.5.zip"
   }
 }
