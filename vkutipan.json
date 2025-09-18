@@ -1,5 +1,10 @@
 {
-  "helper/system/system_info": "1.2.4",
-  "helper/conf/widget": "1.2.4",
-  "kutipan.exe": "1.2.5"
+  "exe": {
+    "version": "1.2.5",
+    "url": "https://github.com/bocahlinux/cloud-print-esamsat/releases/download/v1.2.5/kutipan.exe"
+  },
+  "package": {
+    "version": "1.2.5",
+    "url": "https://github.com/bocahlinux/cloud-print-esamsat/releases/download/v1.2.5/helper_v1.2.5.zip"
+  }
 }
